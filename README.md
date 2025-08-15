@@ -9,7 +9,6 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hany-hazem.hany-hazem&"  />
 </div>
