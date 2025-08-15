@@ -4,8 +4,7 @@
 <img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Hany-hazem" alt="Workspace"  width="40%"/>
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
- <be>
+<p><strong> <summary>  Busy coding & Vibing :   </summary> </strong></p>
 
 </details>
 
