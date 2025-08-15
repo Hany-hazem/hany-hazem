@@ -3,10 +3,9 @@
 
 <img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Hany-hazem" alt="Workspace"  width="40%"/>
 
-<details>
-<p><strong>  Busy coding & Vibing :    </strong></p>
 
-</details>
+<p><strong>  Busy coding & Vibing   </strong></p>
+
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=hany-hazem&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Hany-grey?style=flat&logo=telegram)](https://t.me/hanyhazem0) <br>
