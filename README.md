@@ -46,7 +46,7 @@ class About extends Me {
 -  <img alt="GIF" src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="Hany-hazem/hany-hazem/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/Fitness%20Explore%20GIF%20by%20Pudgy%20Penguins.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- <img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Hani](https://t.me/hanyhazem0)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
