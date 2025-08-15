@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 
-<img src="https://github.com/Hany-hazem/hany-hazem/tree/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
+<img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Hany-hazem" alt="Workspace"  width="40%"/>
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
@@ -52,7 +52,7 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/Hany-hazem">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
