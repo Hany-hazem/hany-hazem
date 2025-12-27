@@ -69,10 +69,6 @@ class Hany(AI_Engineer):
 
 </a>
 
-<details> <summary>More stats</summary>
-[![ ](https://raw.githubusercontent.com/Hany-hazem/hany-hazem/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-</details>
-
 <hr></hr>
 
 Model Training Cycle
