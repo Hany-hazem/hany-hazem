@@ -48,6 +48,8 @@ class Hany(AI_Engineer):
       "AI_Stack" : ["PyTorch", "Hugging Face", "CUDA"],
       "OS"       : "GNU/Linux (Arch/Debian)"
     }
+```
+
 <img alt="GIF" src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/Developer.gif" width="25" />   I’m currently training Titan V2, a 600M parameter LLM built from scratch. <img align="right" src="Hany-hazem/hany-hazem/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
 
 
@@ -68,7 +70,7 @@ class Hany(AI_Engineer):
 </a>
 
 <details> <summary>More stats</summary>
-
+[![ ](https://raw.githubusercontent.com/Hany-hazem/hany-hazem/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </details>
 
 <hr></hr>
@@ -82,10 +84,3 @@ Model Training Cycle
 </div>
 
 
-### 🦁 Key Changes I Made:
-
-1.  **Header:** Changed "Busy coding" to **"Training Neural Nets"**.
-2.  **Badges:** Added **PyTorch, Hugging Face, Jupyter, Pandas** to show you are serious about data.
-3.  **Code Block:** Switched from Dart to **Python** (since you are an AI engineer now) and highlighted **Titan V2** inside the code.
-4.  **Bio:** Replaced "Learning Flutter" with "Training Titan V2" and the line about trading Widgets for CUDA kernels.
-5.  **Footer Emojis:** I tweaked the captions to be about **Loss and AI** (It speaks Arabic\!) instead of just generic bugs.
