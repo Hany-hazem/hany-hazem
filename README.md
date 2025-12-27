@@ -48,3 +48,44 @@ class Hany(AI_Engineer):
       "AI_Stack" : ["PyTorch", "Hugging Face", "CUDA"],
       "OS"       : "GNU/Linux (Arch/Debian)"
     }
+<img alt="GIF" src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/Developer.gif" width="25" />   I’m currently training Titan V2, a 600M parameter LLM built from scratch. <img align="right" src="Hany-hazem/hany-hazem/blob/main/images/linux_rounded.gif" alt="Penguin" width="15%" />
+
+
+<img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/Fitness%20Explore%20GIF%20by%20Pudgy%20Penguins.gif" width="20" />    I traded Flutter widgets for CUDA Kernels.
+
+
+<img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Transformers, PC building, or Movies.
+
+
+<img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: Hany
+
+
+  <img src="https://github.com/Hany-hazem/hany-hazem/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: Training an AI model warms up your room faster than a heater.
+
+
+<div align="center" > <a href="https://github.com/Hany-hazem">
+
+</a>
+
+<details> <summary>More stats</summary>
+
+</details>
+
+<hr></hr>
+
+Model Training Cycle
+
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Loss is high!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Loss Dropped!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It speaks Arabic!"/>
+
+
+</div>
+
+
+### 🦁 Key Changes I Made:
+
+1.  **Header:** Changed "Busy coding" to **"Training Neural Nets"**.
+2.  **Badges:** Added **PyTorch, Hugging Face, Jupyter, Pandas** to show you are serious about data.
+3.  **Code Block:** Switched from Dart to **Python** (since you are an AI engineer now) and highlighted **Titan V2** inside the code.
+4.  **Bio:** Replaced "Learning Flutter" with "Training Titan V2" and the line about trading Widgets for CUDA kernels.
+5.  **Footer Emojis:** I tweaked the captions to be about **Loss and AI** (It speaks Arabic\!) instead of just generic bugs.
